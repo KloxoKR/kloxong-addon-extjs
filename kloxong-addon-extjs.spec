@@ -1,12 +1,12 @@
 %define kloxo /usr/local/lxlabs/kloxo/httpdocs/htmllib
-%define productname kloxong-addon
+%define productname kloxokr-addon
 %define packagename extjs
 %define sourcename ext
 
 Name: %{productname}-%{packagename}
 Summary: Javascript Framework
 Version: 1.1
-Release: 4.kng%{?dist}
+Release: 4.kkr%{?dist}
 License: GPL
 URL: http://www.extjs.com/
 Group: Applications/Internet
